@@ -18,13 +18,13 @@ Gráfico de saída: SJF
 
 
 
-Gráfico de saída: PrioritySecurity
+Gráfico de saída: PrioritySecurity   
 ---4444444444444444CS222222222222CS1111111111CS333333333333333CS55555555CS
 
 
-Gráfico de saída: First-Come First Served
+Gráfico de saída: First-Come First Served  
 ---1111111111CS4444444444444444CS222222222222CS333333333333333CS55555555CS
 
 
-Gráfico de saída: RoundRobin organizado por prioridade  
+Gráfico de saída: RoundRobin organizado por prioridade
 ---444CS444CS222CS444CS222CS444CS222CS444CS222CS4CS111CS333CS111CS333CS111CS333CS1CS333CS333CS555CS555CS55CS
