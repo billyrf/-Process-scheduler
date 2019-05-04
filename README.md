@@ -1,6 +1,6 @@
 # -Process-scheduler
 
-Esse projeto tem como objetivo simular algoritmos de escalonamento com e sem preempção(FCFS, RR, SJF, PS) e mostrar o tempo medio de Turnaround de cada processo.
+Esse projeto tem como objetivo simular algoritmos de escalonamento com e sem preempção(FCFS, RR, SJF, PS) e mostrar o tempo medio de Turnaround(tempo transcorrido desde o momento em que o processo entra e o instante em que termina sua execução).
 Exemplo de arquivo de entrada:
 
 5 -> numero de processos  
