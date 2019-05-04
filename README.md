@@ -5,7 +5,7 @@ Exemplo de arquivo de entrada:
 
 5 -> numero de processos  
 3 -> quantum do RR  
-3 10 2 -> 3 = tempo de chegada 10 = burst time  2 = Prioridade  
+3 10 2 -> 3 = tempo de chegada /10 = burst time  /2 = Prioridade  
 4 12 1  
 9 15 2  
 3 16 1  
